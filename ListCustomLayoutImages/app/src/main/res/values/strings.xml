@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">List ( Custom Layout ) + Images</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>0.09 euro</item>
+        <item>1.22 euro </item>
+        <item>2.99 euro</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>fresh peaches from the netherlands</item>
+        <item>hand picked tomatos from the garden</item>
+        <item>self made squashes from the store</item>
+    </string-array>
+
+</resources>
