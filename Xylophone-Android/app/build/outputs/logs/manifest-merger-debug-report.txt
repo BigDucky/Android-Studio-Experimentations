@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cf76e4148a7c5d8c23fe754a01f49d41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c8cefcbf4cb6fefd038c1e1b0d7a1869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1f9370f7c7c2f155a229f5bd583f767b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\6f3764ee411db9f915623808d0a50626\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b71b2a220287a63acb066b8ca2d39dc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\934431dd4f9262f6a92ac911275c0ce9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6bd9d16b442feeb5bbd3ce786304793a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ba5b72aa9b79ff61e305de6f8c656338\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f17599d5e26e6bb7e5e70cf3534250e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d537e47956c8c0842e0da31c1fca790c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1a87b869ead1707f3291c1678fd1c8a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:11-53
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:5:5-23:19
+	android:supportsRtl
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.londonappbrewery.xylophonepm.MainActivity
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cf76e4148a7c5d8c23fe754a01f49d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\cf76e4148a7c5d8c23fe754a01f49d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c8cefcbf4cb6fefd038c1e1b0d7a1869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\c8cefcbf4cb6fefd038c1e1b0d7a1869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1f9370f7c7c2f155a229f5bd583f767b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1f9370f7c7c2f155a229f5bd583f767b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\6f3764ee411db9f915623808d0a50626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\6f3764ee411db9f915623808d0a50626\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b71b2a220287a63acb066b8ca2d39dc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b71b2a220287a63acb066b8ca2d39dc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\934431dd4f9262f6a92ac911275c0ce9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\934431dd4f9262f6a92ac911275c0ce9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6bd9d16b442feeb5bbd3ce786304793a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6bd9d16b442feeb5bbd3ce786304793a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ba5b72aa9b79ff61e305de6f8c656338\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ba5b72aa9b79ff61e305de6f8c656338\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f17599d5e26e6bb7e5e70cf3534250e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f17599d5e26e6bb7e5e70cf3534250e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d537e47956c8c0842e0da31c1fca790c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d537e47956c8c0842e0da31c1fca790c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1a87b869ead1707f3291c1678fd1c8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Atung\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1a87b869ead1707f3291c1678fd1c8a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Atung\Documents\GitHub\Xylophone-Android\xylophone-android\app\src\main\AndroidManifest.xml
